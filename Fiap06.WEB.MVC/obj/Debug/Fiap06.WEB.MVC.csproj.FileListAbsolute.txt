@@ -1,0 +1,150 @@
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\Fiap06.WEB.MVC.dll.config
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\Fiap06.WEB.MVC.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\Fiap06.WEB.MVC.pdb
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\csc.exe
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\csc.exe.config
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\csc.rsp
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\csi.exe
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\csi.exe.config
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\csi.rsp
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.AppContext.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Console.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Diagnostics.Process.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.IO.Compression.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.IO.Pipes.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.AccessControl.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.Claims.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Threading.Thread.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.ValueTuple.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Xml.XPath.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\vbc.exe
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\vbc.exe.config
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\vbc.rsp
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\VBCSCompiler.exe
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\EntityFramework.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\EntityFramework.SqlServer.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Helpers.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Mvc.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Razor.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Webpages.Deployment.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Webpages.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Webpages.Razor.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\EntityFramework.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\EntityFramework.SqlServer.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Razor.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Webpages.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Webpages.Deployment.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Webpages.Razor.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Helpers.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\System.Web.Mvc.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\obj\Debug\Fiap06.WEB.MVC.csprojAssemblyReference.cache
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\obj\Debug\Fiap06.WEB.MVC.csproj.CoreCompileInputs.cache
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\obj\Debug\Fiap06.WEB.MVC.csproj.CopyComplete
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\obj\Debug\Fiap06.WEB.MVC.dll
+E:\Vithor Escames\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.WEB.MVC\obj\Debug\Fiap06.WEB.MVC.pdb
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\Fiap06.Web.MVC.dll.config
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\Fiap06.Web.MVC.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\Fiap06.Web.MVC.pdb
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\csc.exe
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\csc.exe.config
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\csc.rsp
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\csi.exe
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\csi.exe.config
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\csi.rsp
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Console.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\vbc.exe
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\vbc.exe.config
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\vbc.rsp
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\EntityFramework.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Helpers.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Mvc.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Razor.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Webpages.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\EntityFramework.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Razor.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Webpages.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Helpers.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\System.Web.Mvc.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\obj\Debug\Fiap06.Web.MVC.csprojAssemblyReference.cache
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\obj\Debug\Fiap06.Web.MVC.csproj.CoreCompileInputs.cache
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\obj\Debug\Fiap06.Web.MVC.csproj.CopyComplete
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\obj\Debug\Fiap06.Web.MVC.dll
+C:\Users\vitho\Desktop\FIAP\4 Semestre (ultimo porra)\Enterprise\Fiap06.WEB.MVC\Fiap06.Web.MVC\obj\Debug\Fiap06.Web.MVC.pdb
